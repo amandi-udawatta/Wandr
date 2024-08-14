@@ -1,0 +1,9 @@
+[submodule "wandr-backend"]
+	path = wandr-backend
+	url = git@github.com:amandi-udawatta/wandr-backend.git
+[submodule "wandr-web-frontend"]
+	path = wandr-web-frontend
+	url = git@github.com:amandi-udawatta/wandr-web-frontend.git
+[submodule "wandr-mobile-frontend"]
+	path = wandr-mobile-frontend
+	url = git@github.com:amandi-udawatta/wandr-mobile-frontend.git
