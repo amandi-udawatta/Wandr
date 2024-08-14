@@ -17,7 +17,7 @@ Welcome to Wandr, an all-in-one travel and tourism platform designed to enhance 
 
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, Flutter
 - **Backend**: Spring Boot
-- **Recommendaion System**: Python, FastAPI
+- **Recommendation System**: Python, FastAPI
 - **Database**: PostgreSQL
 - **APIs**: Google Places API, Google Maps API, OpenAI
 
