@@ -7,3 +7,6 @@
 [submodule "wandr-mobile-frontend"]
 	path = wandr-mobile-frontend
 	url = git@github.com:amandi-udawatta/wandr-mobile-frontend.git
+[submodule "wandr-recommendation-python"]
+	path = wandr-recommendation-python
+	url = git@github.com:samudiperera09/wandr-recommendation-python.git
