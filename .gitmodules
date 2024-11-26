@@ -1,12 +1,12 @@
 [submodule "wandr-backend"]
 	path = wandr-backend
-	url = git@github.com:amandi-udawatta/wandr-backend.git
+	url = https://github.com/amandi-udawatta/wandr-backend.git
 [submodule "wandr-web-frontend"]
 	path = wandr-web-frontend
-	url = git@github.com:amandi-udawatta/wandr-web-frontend.git
+	url = https://github.com/amandi-udawatta/wandr-web-frontend.git
 [submodule "wandr-mobile-frontend"]
 	path = wandr-mobile-frontend
-	url = git@github.com:amandi-udawatta/wandr-mobile-frontend.git
+	url = https://github.com/amandi-udawatta/wandr-mobile-frontend.git
 [submodule "wandr-recommendation-python"]
 	path = wandr-recommendation-python
-	url = git@github.com:samudiperera09/wandr-recommendation-python.git
+	url = https://github.com/samudiperera09/wandr-recommendation-python.git
